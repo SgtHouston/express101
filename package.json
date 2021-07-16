@@ -1,0 +1,20 @@
+{
+  "name": "express101",
+  "version": "1.0.0",
+  "description": "Learning about Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgtHouston/express101.git"
+  },
+  "author": "Chris Houston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SgtHouston/express101/issues"
+  },
+  "homepage": "https://github.com/SgtHouston/express101#readme"
+}
